@@ -1,0 +1,30 @@
+{
+  "name": "biz2credit-r3-challenge",
+  "version": "1.0.0",
+  "description": "Biz2Credit third round challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PardeepKashyap/Biz2CreditChallenge.git"
+  },
+  "keywords": [
+    "Biz2CreditChallenge",
+    "Pardeep",
+    "kashyap",
+    "npm"
+  ],
+  "author": "Pardeep kashyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PardeepKashyap/Biz2CreditChallenge/issues"
+  },
+  "homepage": "https://github.com/PardeepKashyap/Biz2CreditChallenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "geo-distance-calculator": "^1.0.0"
+  }
+}

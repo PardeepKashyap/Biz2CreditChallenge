@@ -4,7 +4,7 @@
   "description": "Biz2Credit third round challenge",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",

@@ -23,7 +23,7 @@ npm install
 ### Step 2
 
 ```
-node index.js
+npm start or node index.js
 ```
 
 

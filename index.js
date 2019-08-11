@@ -21,6 +21,7 @@ app.get('/getUserWithInRange',customerAPI.getUserWithInRange);
     }
     else {
         console.log('Response Success, server running at ' + port);
+        console.info("Click on the link for getting user list within 100Km Range of dublin  http://localhost:5000/getUserWithInRange",)
     }
 
 });

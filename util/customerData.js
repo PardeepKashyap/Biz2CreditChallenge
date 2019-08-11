@@ -1,3 +1,5 @@
+//This module Read the JSON from customer.text file and return in List on JSON objects
+
 var fs= require('fs');
 var readJSONFromTextFile= function(){
     let customers = [];

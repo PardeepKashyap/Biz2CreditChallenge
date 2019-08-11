@@ -1,8 +1,9 @@
+//This Module Use geo-distance-calculator node package where search logic is implemented and return the customer list within the range of 100 KM
 var distanceCalculator=require('geo-distance-calculator');
 var util=require('./utility');
 var customerData=require('./customerData');
 var customerList=[];
-const dublin_lat = 53.339428;   // as per requirement this package is specifically coded to find customers near dublin only
+const dublin_lat = 53.339428;    
 const dublin_lon = -6.257664;
 const range_In_KiloMeter=100;
     

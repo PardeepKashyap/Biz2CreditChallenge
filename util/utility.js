@@ -1,3 +1,7 @@
+/***
+ * @array=Array of JSON Object
+ * @key = key from the JSON object
+ *  */
 exports.sortByKey = function(array, key) {
     return array.sort(function(a, b) {
         var x = a[key]; var y = b[key];
